@@ -209,7 +209,7 @@ title : 'Install Rac Oracle19c with ASM in local lab'
 
 
 
-    #untuk user GRID
+    #user GRID
 
     vi /home/grid/.bashrc
 
@@ -231,6 +231,8 @@ title : 'Install Rac Oracle19c with ASM in local lab'
 
 
 ### Clone VM dan setting network dan storage shareable untuk ASM
+
+pada tahap ini akan melakukan clone dari node 1 ke node 2 agar konfigurasi sama tetapi untuk network perlu di reset mac adddress dan mengubahnya menjadi network static , lalu tambahkan storage shareable agar kedua node dapat saling akses 
 
 1. SS stepnya
 
@@ -300,6 +302,7 @@ Pindahkan file oracle grid ke dalam server disini contoh file saya adalah ***LIN
 
 
 ### install dan setup oracle database di RAC
+Pindahkan file oracle db ke dalam server disini contoh file saya adalah ***LINUX.X64_193000_db_home***
 
 1. sebelum membuat database buat ASM Data disk.
 
