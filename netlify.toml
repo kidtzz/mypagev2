@@ -4,3 +4,4 @@
 
 [context.production.environment]
   PHP_VERSION = "8.0"
+  HUGO_VERSION = "0.139.3"
