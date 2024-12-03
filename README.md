@@ -1,3 +1,3 @@
 ### mypage-v2
 
-here => https://kidtz.netlify.app/
+here => https://kidtzzz.netlify.app/
