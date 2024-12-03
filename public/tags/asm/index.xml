@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Oracle on Arch-Kidtz</title>
-    <link>http://localhost:1313/tags/oracle/</link>
-    <description>Recent content in Oracle on Arch-Kidtz</description>
+    <title>ASM on Arch-Kidtz</title>
+    <link>http://localhost:1313/tags/asm/</link>
+    <description>Recent content in ASM on Arch-Kidtz</description>
     <image>
       <title>Arch-Kidtz</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Dec 2024 12:31:29 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/asm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Rac Oracle19c with ASM</title>
       <link>http://localhost:1313/posts/install-rac-oracle19c/</link>

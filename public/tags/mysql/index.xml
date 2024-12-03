@@ -14,7 +14,7 @@
     <lastBuildDate>Tue, 03 Dec 2024 11:51:25 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Database Level Use</title>
+      <title>Database level use</title>
       <link>http://localhost:1313/posts/database-level-use/</link>
       <pubDate>Tue, 03 Dec 2024 11:51:25 +0700</pubDate>
       <guid>http://localhost:1313/posts/database-level-use/</guid>
@@ -37,8 +37,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;SQLite&lt;/span&gt;           &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Mobile&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;apps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;embedded&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;systems&lt;/span&gt;                 &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Lightweight&lt;/span&gt;             &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;---&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>

@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-03T11:51:25+07:00</lastmod>
+    <lastmod>2024-12-03T12:31:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/code/</loc>
+    <lastmod>2024-12-03T12:31:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/install-rac-oracle19c/</loc>
+    <lastmod>2024-12-03T12:31:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/javascript/</loc>
+    <lastmod>2024-12-03T12:31:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/method/</loc>
+    <lastmod>2024-12-03T12:31:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-03T12:31:29+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-03T12:31:29+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/database/</loc>
     <lastmod>2024-12-03T11:51:25+07:00</lastmod>
@@ -20,13 +38,7 @@
     <loc>http://localhost:1313/tags/postgres/</loc>
     <lastmod>2024-12-03T11:51:25+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-03T11:51:25+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/sql-server/</loc>
-    <lastmod>2024-12-03T11:51:25+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-03T11:51:25+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/linux-doc/</loc>
@@ -35,20 +47,11 @@
     <loc>http://localhost:1313/tags/linux-learn-note/</loc>
     <lastmod>2024-01-03T10:57:33+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/code/</loc>
-    <lastmod>2023-11-23T09:52:07+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/method/</loc>
-    <lastmod>2023-11-23T09:52:07+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-11-23T09:52:07+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/python-method/</loc>
     <lastmod>2023-11-23T09:52:07+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
-    <lastmod>2023-11-23T09:36:45+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/javascript-method/</loc>
     <lastmod>2023-11-23T09:36:45+07:00</lastmod>
