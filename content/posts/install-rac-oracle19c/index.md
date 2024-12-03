@@ -6,10 +6,10 @@ ShareButtons:
 ShowReadingTime: true
 draft: false
 tags:
-- Database
-- Oracle19c
-- ASM
-- RAC
+- database
+- oracledb
+- asm
+- rac
 date : '2024-12-03T12:31:29+07:00'
 draft : false
 title : 'Install Rac Oracle19c with ASM in local lab'
