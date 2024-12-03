@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Arch-Kidtz</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Arch-Kidtz</description>
+    <image>
+      <title>Arch-Kidtz</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jan 2024 10:57:33 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux, Learn, Note</title>
+      <link>http://localhost:1313/tags/linux-learn-note/</link>
+      <pubDate>Wed, 03 Jan 2024 10:57:33 +0700</pubDate>
+      <guid>http://localhost:1313/tags/linux-learn-note/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://localhost:1313/tags/code/</link>
+      <pubDate>Thu, 23 Nov 2023 09:52:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Method</title>
+      <link>http://localhost:1313/tags/method/</link>
+      <pubDate>Thu, 23 Nov 2023 09:52:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/method/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Thu, 23 Nov 2023 09:52:07 +0700</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Thu, 23 Nov 2023 09:36:45 +0700</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Me</title>
+      <link>http://localhost:1313/tags/me/</link>
+      <pubDate>Tue, 12 Sep 2023 19:34:25 +0700</pubDate>
+      <guid>http://localhost:1313/tags/me/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cheatsheet</title>
+      <link>http://localhost:1313/tags/cheatsheet/</link>
+      <pubDate>Sun, 10 Sep 2023 20:21:11 +0700</pubDate>
+      <guid>http://localhost:1313/tags/cheatsheet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Sun, 10 Sep 2023 20:21:11 +0700</pubDate>
+      <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cluster</title>
+      <link>http://localhost:1313/tags/cluster/</link>
+      <pubDate>Tue, 11 Jul 2023 20:58:18 +0700</pubDate>
+      <guid>http://localhost:1313/tags/cluster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Tue, 11 Jul 2023 20:58:18 +0700</pubDate>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernets</title>
+      <link>http://localhost:1313/tags/kubernets/</link>
+      <pubDate>Tue, 11 Jul 2023 20:58:18 +0700</pubDate>
+      <guid>http://localhost:1313/tags/kubernets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Json</title>
+      <link>http://localhost:1313/tags/json/</link>
+      <pubDate>Sun, 25 Jun 2023 20:53:12 +0700</pubDate>
+      <guid>http://localhost:1313/tags/json/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Setting</title>
+      <link>http://localhost:1313/tags/setting/</link>
+      <pubDate>Sun, 25 Jun 2023 20:53:12 +0700</pubDate>
+      <guid>http://localhost:1313/tags/setting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vscode</title>
+      <link>http://localhost:1313/tags/vscode/</link>
+      <pubDate>Sun, 25 Jun 2023 20:53:12 +0700</pubDate>
+      <guid>http://localhost:1313/tags/vscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bootstrap</title>
+      <link>http://localhost:1313/tags/bootstrap/</link>
+      <pubDate>Thu, 18 May 2023 11:53:31 +0700</pubDate>
+      <guid>http://localhost:1313/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ReactJs</title>
+      <link>http://localhost:1313/tags/reactjs/</link>
+      <pubDate>Thu, 18 May 2023 11:53:31 +0700</pubDate>
+      <guid>http://localhost:1313/tags/reactjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rest API</title>
+      <link>http://localhost:1313/tags/rest-api/</link>
+      <pubDate>Thu, 18 May 2023 11:53:31 +0700</pubDate>
+      <guid>http://localhost:1313/tags/rest-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redux</title>
+      <link>http://localhost:1313/tags/redux/</link>
+      <pubDate>Thu, 18 May 2023 11:51:21 +0700</pubDate>
+      <guid>http://localhost:1313/tags/redux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Datatables</title>
+      <link>http://localhost:1313/tags/datatables/</link>
+      <pubDate>Thu, 18 May 2023 11:49:03 +0700</pubDate>
+      <guid>http://localhost:1313/tags/datatables/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JQuery</title>
+      <link>http://localhost:1313/tags/jquery/</link>
+      <pubDate>Thu, 18 May 2023 11:49:03 +0700</pubDate>
+      <guid>http://localhost:1313/tags/jquery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laravel</title>
+      <link>http://localhost:1313/tags/laravel/</link>
+      <pubDate>Thu, 18 May 2023 11:49:03 +0700</pubDate>
+      <guid>http://localhost:1313/tags/laravel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mysql</title>
+      <link>http://localhost:1313/tags/mysql/</link>
+      <pubDate>Thu, 18 May 2023 11:49:03 +0700</pubDate>
+      <guid>http://localhost:1313/tags/mysql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSS</title>
+      <link>http://localhost:1313/tags/css/</link>
+      <pubDate>Thu, 18 May 2023 11:46:05 +0700</pubDate>
+      <guid>http://localhost:1313/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>http://localhost:1313/tags/html/</link>
+      <pubDate>Thu, 18 May 2023 11:46:05 +0700</pubDate>
+      <guid>http://localhost:1313/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node.js</title>
+      <link>http://localhost:1313/tags/node.js/</link>
+      <pubDate>Thu, 18 May 2023 11:42:56 +0700</pubDate>
+      <guid>http://localhost:1313/tags/node.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scss</title>
+      <link>http://localhost:1313/tags/scss/</link>
+      <pubDate>Thu, 18 May 2023 11:40:42 +0700</pubDate>
+      <guid>http://localhost:1313/tags/scss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>http://localhost:1313/tags/wordpress/</link>
+      <pubDate>Thu, 18 May 2023 11:14:10 +0700</pubDate>
+      <guid>http://localhost:1313/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Myvscode</title>
+      <link>http://localhost:1313/tags/myvscode/</link>
+      <pubDate>Sat, 13 May 2023 10:19:43 +0700</pubDate>
+      <guid>http://localhost:1313/tags/myvscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
+      <pubDate>Sat, 13 May 2023 10:19:32 +0700</pubDate>
+      <guid>http://localhost:1313/tags/react/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

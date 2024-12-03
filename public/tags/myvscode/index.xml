@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Myvscode on Arch-Kidtz</title>
+    <link>http://localhost:1313/tags/myvscode/</link>
+    <description>Recent content in Myvscode on Arch-Kidtz</description>
+    <image>
+      <title>Arch-Kidtz</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 May 2023 10:19:43 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/myvscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Sat, 13 May 2023 10:19:43 +0700</pubDate>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>&lt;p&gt;second post my vscode setup
+&lt;img alt=&#34;vscodesetup-second&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/second-post/vscodesetup-second.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sat, 13 May 2023 10:19:32 +0700</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;first post my vscode setup with reactjs redux
+&lt;img alt=&#34;vscodesetup&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/first-post/vscodesetup-first.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
