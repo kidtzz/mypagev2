@@ -11,8 +11,36 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jan 2024 10:57:33 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 11:51:25 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database Level Use</title>
+      <link>http://localhost:1313/posts/database-level-use/</link>
+      <pubDate>Tue, 03 Dec 2024 11:51:25 +0700</pubDate>
+      <guid>http://localhost:1313/posts/database-level-use/</guid>
+      <description>&lt;p&gt;Level database biasanya merujuk pada level di mana database beroperasi dalam infrastruktur atau aplikasi&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;DATABASE&lt;/span&gt;         &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;BEST&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;USE&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;CASES&lt;/span&gt;                                &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;LEVEL&lt;/span&gt;                   &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Oracle&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Database&lt;/span&gt;  &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Mission&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;critical&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;apps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;ERP&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;warehousing&lt;/span&gt;  &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;Enterprise&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;High&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;tier&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;MySQL&lt;/span&gt;            &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Web&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;apps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;CMS&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;commerce&lt;/span&gt;                     &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Mid&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;tier&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;lightweight&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;PostgreSQL&lt;/span&gt;       &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Analytics&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;hybrid&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;SQL&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;NoSQL&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;warehouse&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Enterprise&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;mid&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;tier&lt;/span&gt;  &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;SQL&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Server&lt;/span&gt;       &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Microsoft&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;ecosystem&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;BI&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;transactional&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;apps&lt;/span&gt;   &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;Enterprise&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Mid&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;High&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;MongoDB&lt;/span&gt;          &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;NoSQL&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;scalable&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;apps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;flexible&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;schemas&lt;/span&gt;        &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Mid&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;tier&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;startup&lt;/span&gt;     &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;MariaDB&lt;/span&gt;          &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Web&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;apps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;SaaS&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;commerce&lt;/span&gt;                    &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Mid&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;tier&lt;/span&gt;                &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;SQLite&lt;/span&gt;           &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Mobile&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;apps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;embedded&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;systems&lt;/span&gt;                 &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Lightweight&lt;/span&gt;             &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;+------------------+-----------------------------------------------+-------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;---&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Linux Doc</title>
       <link>http://localhost:1313/posts/linux-doc/</link>
@@ -491,29 +519,23 @@ Repository -&amp;gt; &lt;a href=&#34;https://github.com/arywr/dreamteam-new&#34;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;Website: &lt;a href=&#34;https://kidtz.netlify.app/&#34;&gt;https://kidtz.netlify.app/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/kidtz/&#34;&gt;https://github.com/kidtz/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/kidtzz/&#34;&gt;https://github.com/kidtzz/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Hello&lt;/p&gt;
-&lt;p&gt;become a programming professional &amp;amp; Highly motivated to learn something new. interested in Cloud, Web/mobile programming, Security, Infrastructure especially about (Python, Linux, WebDev, SQL Query etc).&lt;/p&gt;
+&lt;p&gt;Become a programming professional &amp;amp; Highly motivated to learn something new. interested in Database, Web/apps, programming (Js, Python, Shell), Linux, Security, Infrastructure especially about Database ( OracleDB, MYSQL, SQL Server, Postgres ).&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h2 id=&#34;experiences&#34;&gt;Experiences&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Technical Consultant Analyst&lt;/strong&gt;, PT. Mitra Integrasi Informatika (MII)&lt;br&gt;
-&lt;em&gt;July 2022 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Database Administrator&lt;/strong&gt;, PT. Mitra Integrasi Informatika (MII)&lt;br&gt;
+&lt;em&gt;July 2024 – present&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Make design and implementation for clients.&lt;/li&gt;
-&lt;li&gt;Meeting with clients to determine requirements.&lt;/li&gt;
-&lt;li&gt;Working with clients to define the scope of a project.&lt;/li&gt;
-&lt;li&gt;Planning timescales and the resources needed.&lt;/li&gt;
-&lt;li&gt;Clarifying a clients system specifications, understanding their work practices and the nature of their business to deliver the most effective and efficient business process.&lt;/li&gt;
-&lt;li&gt;Analyzing IT requirements within companies and giving independent and objective advice on the use of IT.&lt;/li&gt;
-&lt;li&gt;Developing agreed solutions and implementing new systems.&lt;/li&gt;
-&lt;li&gt;Preparing documentation and presenting progress reports to customers.&lt;/li&gt;
-&lt;li&gt;Organizing training for users and other consultants.&lt;/li&gt;
+&lt;li&gt;Oracle Data Guard (ODG), Real Applications Clusters (RAC) Such as Installation, Maintenance, troubleshoot&lt;/li&gt;
+&lt;li&gt;AlwaysOn Availability Groups (AG), Failover Cluster Instance(FCI), Logshipping, Mirroring Such as Installation, Maintenance, troubleshoot&lt;/li&gt;
+&lt;li&gt;Preventive Maintenance, Corrertive Maintenance Oracle Database, MYSQL, SQL server, EDB Postgres&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Freelance Web Developer&lt;/strong&gt;, Exclolab&lt;br&gt;
-&lt;em&gt;April 2022 – June 2023&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;IT Service Management&lt;/strong&gt;, PT. Mitra Integrasi Informatika (MII)&lt;br&gt;
+&lt;em&gt;July 2022 – juni 2024&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

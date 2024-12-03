@@ -11,21 +11,29 @@ title: ""
 
 ---
 - Website: https://kidtz.netlify.app/
-- GitHub: https://github.com/kidtz/
+- GitHub: https://github.com/kidtzz/
 
 ---
 &nbsp;
 
 Hello
 
-become a programming professional & Highly motivated to learn something new. interested in Cloud, Web/mobile programming, Security, Infrastructure especially about (Python, Linux, WebDev, SQL Query etc).
+Become a programming professional & Highly motivated to learn something new. interested in Database, Web/apps, programming (Js, Python, Shell), Linux, Security, Infrastructure especially about Database ( OracleDB, MYSQL, SQL Server, Postgres ).
 
 &nbsp;
 
 
 ## Experiences
-**Technical Consultant Analyst**, PT. Mitra Integrasi Informatika (MII)\
-*July 2022 – Present*
+
+**Database Administrator**, PT. Mitra Integrasi Informatika (MII)\
+*July 2024 – present*
+- Oracle Data Guard (ODG), Real Applications Clusters (RAC) Such as Installation, Maintenance, troubleshoot
+- AlwaysOn Availability Groups (AG), Failover Cluster Instance(FCI), Logshipping, Mirroring Such as Installation, Maintenance, troubleshoot
+- Preventive Maintenance, Corrertive Maintenance Oracle Database, MYSQL, SQL server, EDB Postgres
+
+
+**IT Service Management**, PT. Mitra Integrasi Informatika (MII)\
+*July 2022 – juni 2024*
 
 -   Make design and implementation for clients.
 -   Meeting with clients to determine requirements.
@@ -132,23 +140,6 @@ To become a library that cultivates people's love of reading and enriches people
 -   self-developmental
 
 
-## Projects
-**Information System Manggala-Pustaka**\
-*October 2021 – Present*\
-
--   Dynamic Website Projects with Laravel and Reactjs
-
-## Training
-
-**Cyber Security Operation** - *2021*\
-*organizer: Fresh Graduate Academy Digital Talent Scholarship 2021*
-
-**Front end Developer** - *2022*\
-*organizer: Fresh Graduate Academy Digital Talent Scholarship 2022*
-
-**Alibaba Cloud Associate** - *2023*\
-*PROA Digital Talent Scholarship 2023*
-
 ## Organization Experiance
 
 **Dorm Team Telkom University**\
@@ -170,8 +161,11 @@ To become a library that cultivates people's love of reading and enriches people
 -   Familiar with Scripting and Working in a Linux Environment.
 -   Knowledge using a ETL Developer.
 -   Good communication and Able to work individually or team
--   Strong in analyzing, critically thinking and Excellent -    troubleshooting skill
+-   Strong in analyzing, critically thinking and Excellent 
+-   troubleshooting skill
 -   Experience With GIT
+
+
 --- 
 
 I the undersigned, certify that:
