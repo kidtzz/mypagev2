@@ -55,5 +55,3 @@ Ulangi sendiri dengan bahasa anda untuk mengetes pemahaman.
 Review lagi materi yang telah anda baca sebelum ujian.
 
 Ketika menjawab soal ujian, dan anda menemukan pertanyaan yang sama/serupa, maka anda akan ingat "Oh yang ini, ini yang kemarin saya baca". Akan ada titik poin sebagai penanda khusus di ingatan ketika anda membaca pertanyaan yang serupa.
-
-Saya juga sudah menjawab pertanyaan serupa di Quora, anda bisa membaca lebih lengkap di link berikut.
