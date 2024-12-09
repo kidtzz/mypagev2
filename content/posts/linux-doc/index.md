@@ -7,7 +7,7 @@ ShowReadingTime: true
 date: "2024-01-03T10:57:33+07:00"
 draft: false
 tags:
-- linux, learn, note
+- linux
 title: Linux Doc
 ---
 

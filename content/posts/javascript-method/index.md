@@ -7,9 +7,7 @@ ShowReadingTime: true
 date: "2023-11-23T09:36:45+07:00"
 draft: false
 tags:
-- code
 - javascript
-- method
 title: Javascript Method
 ---
 

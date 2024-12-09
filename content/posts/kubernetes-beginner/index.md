@@ -7,9 +7,8 @@ ShowReadingTime: true
 date: "2023-07-11T20:58:18+07:00"
 draft: false
 tags:
-- kubernets
+- kubernetes
 - docker
-- cluster
 title: Kubernetes Beginner
 ---
 

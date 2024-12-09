@@ -9,8 +9,6 @@ draft: false
 tags:
 - Laravel
 - Mysql
-- JQuery
-- Datatables
 - Bootstrap
 title: Mpustaka Admin Laravel
 ---

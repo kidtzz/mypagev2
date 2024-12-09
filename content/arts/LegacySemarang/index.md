@@ -9,8 +9,8 @@ draft: false
 tags:
 - HTML
 - CSS
-- Javascript
-- Wordpress
+- javascript
+- wordpress
 title: Legacy Semarang
 ---
 

@@ -7,7 +7,7 @@ ShowReadingTime: true
 date: "2023-05-18T11:53:31+07:00"
 draft: false
 tags:
-- ReactJs
+- reactjs
 - Rest API
 - Bootstrap
 title: Todo List ReactJS

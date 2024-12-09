@@ -18,7 +18,9 @@
       <link>http://localhost:1313/posts/oracle-fpp/</link>
       <pubDate>Mon, 09 Dec 2024 13:21:21 +0700</pubDate>
       <guid>http://localhost:1313/posts/oracle-fpp/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;how-oracle-fleet-patching-and-provisioning-helps&#34;&gt;How Oracle Fleet Patching and Provisioning helps&lt;/h3&gt;
+&lt;p&gt;Oracle FPP provides a tool capable of patching and upgrading Oracle Grid Infrastructure and Oracle Database using gold image. Gold image is a compressed copy of a software-only Oracle Database home or Grid Infrastructure home.&lt;/p&gt;
+&lt;p&gt;Oracle FPP server acts like a warehouse of various version of gold image that can be used to patching and upgrading. The image below describes a FPP server with GI and DB gold images:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oracle Datapump Command</title>

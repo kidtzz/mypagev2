@@ -50,17 +50,11 @@
     <loc>http://localhost:1313/tags/sql-server/</loc>
     <lastmod>2024-12-03T11:51:25+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2024-01-03T10:57:33+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/linux-doc/</loc>
     <lastmod>2024-01-03T10:57:33+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/linux-learn-note/</loc>
-    <lastmod>2024-01-03T10:57:33+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/code/</loc>
-    <lastmod>2023-11-23T09:52:07+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/method/</loc>
-    <lastmod>2023-11-23T09:52:07+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2023-11-23T09:52:07+07:00</lastmod>
@@ -92,16 +86,13 @@
     <loc>http://localhost:1313/posts/git-cheatsheet/</loc>
     <lastmod>2023-09-10T20:21:11+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cluster/</loc>
-    <lastmod>2023-07-11T20:58:18+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2023-07-11T20:58:18+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes-beginner/</loc>
+    <loc>http://localhost:1313/tags/kubernetes/</loc>
     <lastmod>2023-07-11T20:58:18+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kubernets/</loc>
+    <loc>http://localhost:1313/posts/kubernetes-beginner/</loc>
     <lastmod>2023-07-11T20:58:18+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/json/</loc>
@@ -136,12 +127,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/redux/</loc>
     <lastmod>2023-05-18T11:51:21+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/datatables/</loc>
-    <lastmod>2023-05-18T11:49:03+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/jquery/</loc>
-    <lastmod>2023-05-18T11:49:03+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/laravel/</loc>
     <lastmod>2023-05-18T11:49:03+07:00</lastmod>
@@ -200,16 +185,10 @@
     <loc>http://localhost:1313/arts/new-era-living-room/</loc>
     <lastmod>2023-05-13T10:20:05+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/myvscode/</loc>
-    <lastmod>2023-05-13T10:19:43+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/second-post/</loc>
     <lastmod>2023-05-13T10:19:43+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/first-post/</loc>
-    <lastmod>2023-05-13T10:19:32+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/react/</loc>
     <lastmod>2023-05-13T10:19:32+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
