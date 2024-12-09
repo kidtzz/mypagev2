@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ASM on Arch-Kidtz</title>
+    <title>Asm on Arch-Kidtz</title>
     <link>http://localhost:1313/tags/asm/</link>
-    <description>Recent content in ASM on Arch-Kidtz</description>
+    <description>Recent content in Asm on Arch-Kidtz</description>
     <image>
       <title>Arch-Kidtz</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,43 +11,41 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Dec 2024 12:31:29 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 11:13:58 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/asm/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Install Rac Oracle19c with ASM</title>
+      <title>Install MYSQL Server  </title>
+      <link>http://localhost:1313/posts/install-mysql-server/</link>
+      <pubDate>Mon, 09 Dec 2024 11:13:58 +0700</pubDate>
+      <guid>http://localhost:1313/posts/install-mysql-server/</guid>
+      <description>&lt;h3 id=&#34;install-mysql-server&#34;&gt;Install MYSQL Server&lt;/h3&gt;
+&lt;h4 id=&#34;prereq&#34;&gt;prereq&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title>Install Rac Oracle19c with ASM in local lab</title>
       <link>http://localhost:1313/posts/install-rac-oracle19c/</link>
       <pubDate>Tue, 03 Dec 2024 12:31:29 +0700</pubDate>
       <guid>http://localhost:1313/posts/install-rac-oracle19c/</guid>
-      <description>&lt;p&gt;ubahkernel ke CHK
-grub2-set-default 1
-uname -r
-reboot&lt;/p&gt;
-&lt;p&gt;/etc/selinux/config&lt;/p&gt;
-&lt;p&gt;SELINUX=disabled&lt;/p&gt;
-&lt;p&gt;hostnamectl set-hostname db1.db.com
-hostnamectl set-hostname db2.db.com&lt;/p&gt;
-&lt;p&gt;vi /etc/hosts
-masukan IP berikut&lt;/p&gt;
-&lt;p&gt;127.0.0.1 localhost.db.com localhost&lt;/p&gt;
-&lt;h1 id=&#34;public&#34;&gt;Public&lt;/h1&gt;
-&lt;p&gt;192.168.8.201 db1.db.com db1
-192.168.8.202 db2.db.com db2&lt;/p&gt;
-&lt;h1 id=&#34;private&#34;&gt;Private&lt;/h1&gt;
-&lt;p&gt;192.168.9.201 db1-priv.db.com db1-priv
-192.168.9.202 db2-priv.db.com db2-priv&lt;/p&gt;
-&lt;h1 id=&#34;virtual&#34;&gt;Virtual&lt;/h1&gt;
-&lt;p&gt;192.168.8.211 db1-vip.db.com db1-vip
-192.168.8.212 db2-vip.db.com db2-vip&lt;/p&gt;
-&lt;h1 id=&#34;scan&#34;&gt;SCAN&lt;/h1&gt;
-&lt;p&gt;192.168.8.221 db-scan.db.com db-scan
-192.168.8.222 db-scan.db.com db-scan
-192.168.8.223 db-scan.db.com db-scan&lt;/p&gt;
-&lt;p&gt;yum install -y oracle-database-preinstall-19c
-yum install oracleasm-support
-sudo yum install kmod-oracleasm
-sudo yum install chrony
-yum install bind* -y
-sysctl -p&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Pastikan OS dapat membaca ASM disini saya menggunak oracle linux 7.8 dan saya perlu merubah kernel menjadi CHK karena disini defaultny adalah UEK&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;grub2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;set&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;default&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;uname&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;r&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;reboot&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ubah selinux menjadi disabled agar tidak terlock&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;etc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;selinux&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;config&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;SELINUX&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;disabled&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ubah hostname disini saya menggunakan 2 node berikut contohnya&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;hostnamectl&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;set&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;hostname&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;db1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;db&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;hostnamectl&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;set&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;hostname&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;db2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;db&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tambahkan etc hosts dengan IP yang sudah di set pastikan IP Public , IP Virtual, IP Scan dalam satu segment yang sama&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
