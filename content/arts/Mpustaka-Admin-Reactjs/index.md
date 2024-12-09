@@ -7,10 +7,10 @@ ShowReadingTime: true
 date: "2023-05-18T11:51:21+07:00"
 draft: false
 tags:
-- ReactJs
-- Rest API
-- Redux
-- Bootstrap
+- reactJs
+- rest API
+- redux
+- bootstrap
 title: Mpustaka Admin Reactjs
 ---
 

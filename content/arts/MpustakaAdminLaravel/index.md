@@ -7,9 +7,9 @@ ShowReadingTime: true
 date: "2023-05-18T11:49:03+07:00"
 draft: false
 tags:
-- Laravel
-- Mysql
-- Bootstrap
+- laravel
+- mysql
+- bootstrap
 title: Mpustaka Admin Laravel
 ---
 

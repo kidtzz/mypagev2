@@ -8,8 +8,8 @@ date: "2023-05-18T11:53:31+07:00"
 draft: false
 tags:
 - reactjs
-- Rest API
-- Bootstrap
+- rest API
+- bootstrap
 title: Todo List ReactJS
 ---
 

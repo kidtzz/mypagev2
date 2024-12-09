@@ -9,7 +9,7 @@ draft: false
 tags:
 - HTML
 - CSS
-- Javascript
+- javascript
 - ReactJs
 - Node.js
 title: Mpustaka Full Page v1.2

@@ -9,7 +9,7 @@ draft: false
 tags:
 - HTML
 - CSS
-- Javascript
+- javascript
 title: Summit
 ---
 
