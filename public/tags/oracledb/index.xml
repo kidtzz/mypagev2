@@ -11,16 +11,8 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Dec 2024 11:13:58 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 12:31:29 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/oracledb/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Install MYSQL Server  </title>
-      <link>http://localhost:1313/posts/install-mysql-server/</link>
-      <pubDate>Mon, 09 Dec 2024 11:13:58 +0700</pubDate>
-      <guid>http://localhost:1313/posts/install-mysql-server/</guid>
-      <description>&lt;h3 id=&#34;install-mysql-server&#34;&gt;Install MYSQL Server&lt;/h3&gt;
-&lt;h4 id=&#34;prereq&#34;&gt;prereq&lt;/h4&gt;</description>
-    </item>
     <item>
       <title>Install Rac Oracle19c with ASM in local lab</title>
       <link>http://localhost:1313/posts/install-rac-oracle19c/</link>
