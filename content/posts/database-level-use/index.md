@@ -19,6 +19,11 @@ title : 'Database level use'
 
 Level database biasanya merujuk pada level di mana database beroperasi dalam infrastruktur atau aplikasi
 
+Ranking database desember 2024 
+![alt](image.png)
+
+
+Source : [Database Ranking](https://db-engines.com/en/ranking)
 
 ```go
 
