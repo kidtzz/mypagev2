@@ -95,7 +95,13 @@ Oracle Linux /Red Hat Enterprise Linux
 
      ![alt](image8.png)
 
-9. Secure MySQL Installation
+9.  Find password get from mysqld.log
+
+    ```go
+    sudo grep 'temporary' /var/log/mysqld.log
+    ```
+
+10. Secure MySQL Installation
 
     ```go
     sudo mysql_secure_installation
@@ -113,7 +119,7 @@ Oracle Linux /Red Hat Enterprise Linux
     ss
     ![alt](image9.png)
 
-10. Test login
+11. Test login
 
     ```go
     mysql -uroot -p
