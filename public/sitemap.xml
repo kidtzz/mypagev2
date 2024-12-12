@@ -3,22 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-10T11:28:50+07:00</lastmod>
+    <lastmod>2024-12-12T10:57:33+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/database/</loc>
+    <lastmod>2024-12-12T10:57:33+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mysql-enterprise-install/</loc>
+    <lastmod>2024-12-12T10:57:33+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mysql/</loc>
+    <lastmod>2024-12-12T10:57:33+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-12T10:57:33+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-12T10:57:33+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2024-12-10T11:28:50+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/docker-command/</loc>
     <lastmod>2024-12-10T11:28:50+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-10T11:28:50+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-10T11:28:50+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/database/</loc>
-    <lastmod>2024-12-09T13:21:21+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/oracle-fpp/</loc>
     <lastmod>2024-12-09T13:21:21+07:00</lastmod>
@@ -29,19 +35,16 @@
     <loc>http://localhost:1313/posts/oracle-datapump-command/</loc>
     <lastmod>2024-12-09T13:16:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mysql/</loc>
-    <lastmod>2024-12-09T11:43:07+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/mysqlshell-command/</loc>
     <lastmod>2024-12-09T11:43:07+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/install-mysql-server/</loc>
+    <loc>http://localhost:1313/posts/mysql-server-install/</loc>
     <lastmod>2024-12-09T11:13:58+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/asm/</loc>
     <lastmod>2024-12-03T12:31:29+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/install-rac-oracle19c/</loc>
+    <loc>http://localhost:1313/posts/oracle-install-rac-oracle19c/</loc>
     <lastmod>2024-12-03T12:31:29+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rac/</loc>

@@ -109,9 +109,9 @@
     </item>
     <item>
       <title>Install Rac Oracle19c with ASM in local lab</title>
-      <link>http://localhost:1313/posts/install-rac-oracle19c/</link>
+      <link>http://localhost:1313/posts/oracle-install-rac-oracle19c/</link>
       <pubDate>Tue, 03 Dec 2024 12:31:29 +0700</pubDate>
-      <guid>http://localhost:1313/posts/install-rac-oracle19c/</guid>
+      <guid>http://localhost:1313/posts/oracle-install-rac-oracle19c/</guid>
       <description>&lt;h3 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;
