@@ -9,7 +9,7 @@ draft: false
 tags:
 - database
 - mysql
-title : 'Installing MySQL Enterprise Edition in Oracle linux 7.8'
+title : 'Installing MySQL 9 Enterprise Edition in Oracle linux 7.8'
 ---
 
 After you have downloaded the MySQL Enterprise Edition software bundle from the MySQL Enterprise Edition Downloads page on OTR, follow the installation instructions below for your platform.
