@@ -28,6 +28,7 @@ Become a programming professional & Highly motivated to learn something new. int
 **Database Administrator**, PT. Mitra Integrasi Informatika (MII)\
 *July 2024 – present*
 - Oracle Data Guard (ODG), Real Applications Clusters (RAC) Such as Installation, Maintenance, troubleshoot
+- Standalone Instance, Master-Slave Replication, Master-Master Replication , INNODB Cluster Such as Installation, Maintenance troubleshoot 
 - AlwaysOn Availability Groups (AG), Failover Cluster Instance(FCI), Logshipping, Mirroring Such as Installation, Maintenance, troubleshoot
 - Preventive Maintenance, Corrertive Maintenance Oracle Database, MYSQL, SQL server, EDB Postgres
 
@@ -149,13 +150,6 @@ To become a library that cultivates people's love of reading and enriches people
 -   Carry out the planned program.
 -   Coordinate the tasks given by the general chairman
 
-## Certificate
-
--   **Cyber Security Operations in Cisco Networking Academy As Participant** - *September 2021*
--   **Front End Developer (HTML, CSS, JavaScript) in the Digital Talent Scholarship Program As Participant** - *April 2022*
--   **Alibaba Cloud Certified Associate in Alibaba Cloud** - *August 2023*
--   **DevNet Associate in Cisco Networking Academy** - *March 2024* 
-
 ## Additional Skills
 
 -   Familiar with Scripting and Working in a Linux Environment.
@@ -165,6 +159,12 @@ To become a library that cultivates people's love of reading and enriches people
 -   troubleshooting skill
 -   Experience With GIT
 
+## Certificate
+
+-   **Cyber Security Operations in Cisco Networking Academy As Participant** - *September 2021*
+-   **Front End Developer (HTML, CSS, JavaScript) in the Digital Talent Scholarship Program As Participant** - *April 2022*
+-   **Alibaba Cloud Certified Associate in Alibaba Cloud** - *August 2023*
+-   **DevNet Associate in Cisco Networking Academy** - *March 2024* 
 
 --- 
 
