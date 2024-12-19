@@ -161,8 +161,8 @@ To become a library that cultivates people's love of reading and enriches people
 
 ## Certificate
 
--   **Cyber Security Operations in Cisco Networking Academy As Participant** - *September 2021*
--   **Front End Developer (HTML, CSS, JavaScript) in the Digital Talent Scholarship Program As Participant** - *April 2022*
+-   **Cyber Security Operations in Cisco Networking Academy** - *September 2021*
+-   **Front End Developer in the Digital Talent Scholarship** - *April 2022*
 -   **Alibaba Cloud Certified Associate in Alibaba Cloud** - *August 2023*
 -   **DevNet Associate in Cisco Networking Academy** - *March 2024* 
 
