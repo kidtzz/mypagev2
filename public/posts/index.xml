@@ -11,8 +11,42 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Dec 2024 10:57:33 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 09:41:14 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oracle Explanation about the GAP</title>
+      <link>http://localhost:1313/posts/oracle-explain-gap/</link>
+      <pubDate>Tue, 07 Jan 2025 09:41:14 +0700</pubDate>
+      <guid>http://localhost:1313/posts/oracle-explain-gap/</guid>
+      <description>&lt;h3 id=&#34;primary&#34;&gt;Primary&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/oracle-explain-gap/image-1.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;secondary&#34;&gt;Secondary&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/oracle-explain-gap/image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;===========&lt;/p&gt;
+&lt;h4 id=&#34;process&#34;&gt;PROCESS:&lt;/h4&gt;
+&lt;p&gt;Ini menunjukkan jenis proses yang sedang berjalan pada sistem. Beberapa proses yang ada dalam output ini antara lain:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DGRD&lt;/strong&gt;: Data Guard (DG) Real-Time Apply (DGRD) process.
+Ini adalah proses yang berhubungan dengan penerapan data dari primary ke standby
+database dalam konfigurasi Oracle Data Guard.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ARCH&lt;/strong&gt;: Archive process. Ini adalah proses yang bertanggung jawab
+untuk mengarsipkan redo logs yang dibuat oleh database.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LNS&lt;/strong&gt;: Log Network Service. Proses ini bertanggung jawab untuk
+mengirimkan redo logs ke standby database dalam konfigurasi Data Guard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Users, Roles &amp; Profiles in Oracle</title>
+      <link>http://localhost:1313/posts/oracle-users-roles/</link>
+      <pubDate>Tue, 24 Dec 2024 10:15:02 +0700</pubDate>
+      <guid>http://localhost:1313/posts/oracle-users-roles/</guid>
+      <description>&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.dbagenesis.com/post/users-roles-profiles-in-oracle&#34;&gt;https://docs.dbagenesis.com/post/users-roles-profiles-in-oracle&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Installing MySQL 9 Enterprise Edition in Oracle linux 7.8</title>
       <link>http://localhost:1313/posts/mysql-enterprise-install/</link>

@@ -3,21 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-12T10:57:33+07:00</lastmod>
+    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/database/</loc>
-    <lastmod>2024-12-12T10:57:33+07:00</lastmod>
+    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/oracle-explain-gap/</loc>
+    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/oracledb/</loc>
+    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/oracle-users-roles/</loc>
+    <lastmod>2024-12-24T10:15:02+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/mysql-enterprise-install/</loc>
     <lastmod>2024-12-12T10:57:33+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mysql/</loc>
-    <lastmod>2024-12-12T10:57:33+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-12T10:57:33+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-12T10:57:33+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/docker/</loc>
@@ -27,9 +36,6 @@
     <lastmod>2024-12-10T11:28:50+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/oracle-fpp/</loc>
-    <lastmod>2024-12-09T13:21:21+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/oracledb/</loc>
     <lastmod>2024-12-09T13:21:21+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/oracle-datapump-command/</loc>
