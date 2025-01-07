@@ -3,21 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
+    <lastmod>2025-01-07T09:56:12+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/database/</loc>
-    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
+    <lastmod>2025-01-07T09:56:12+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/oracle-explain-gap/</loc>
-    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
+    <loc>http://localhost:1313/posts/hugo-command/</loc>
+    <lastmod>2025-01-07T09:56:12+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/oracledb/</loc>
-    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
+    <lastmod>2025-01-07T09:56:12+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-07T09:41:14+07:00</lastmod>
+    <lastmod>2025-01-07T09:56:12+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-07T09:56:12+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/oracle-explain-gap/</loc>
     <lastmod>2025-01-07T09:41:14+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/oracle-users-roles/</loc>

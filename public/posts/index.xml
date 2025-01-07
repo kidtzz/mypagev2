@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jan 2025 09:41:14 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 09:56:12 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Command</title>
+      <link>http://localhost:1313/posts/hugo-command/</link>
+      <pubDate>Tue, 07 Jan 2025 09:56:12 +0700</pubDate>
+      <guid>http://localhost:1313/posts/hugo-command/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/tools/hugo/&#34;&gt;https://www.markdownguide.org/tools/hugo/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Oracle Explanation about the GAP</title>
       <link>http://localhost:1313/posts/oracle-explain-gap/</link>
