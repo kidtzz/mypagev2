@@ -112,7 +112,7 @@ Become a programming professional & Highly motivated to learn something new. int
 -   Development of BMC Helix Discovery and Service Model
 
 **SMART Sinarmas**\
-*Maret 2024 – Present*\
+*Maret 2024 – Juni 2024*\
     *Product: BMC Helix Remedy v24.0 Saas Platform, BMC Helix Discovery 23.0 Saas Platform*\
     *Responsibility: Team Member*\
     *Location : DKI Jakarta*
@@ -140,6 +140,11 @@ To become a library that cultivates people's love of reading and enriches people
 -   Become a friendly forum that bridges the implementation of positive activities that are  
 -   self-developmental
 
+**Profile**:
+[Profile Here](https://linktr.ee/manggalapustaka?fbclid=PAY2xjawHpeLlleHRuA2FlbQIxMQABpmrxCeqf99BjQkgWFsa7tNW2XXCqWOSN0BHiw_JWjvyXKoVUoPAeCbuGeA_aem_QsfMUaQ_zMPqKU6rUC5k2Q).
+
+**Wesbite**:
+[Digital Library](https://desasimo.perpustakaan.co.id/m/home.dg)
 
 ## Organization Experiance
 
@@ -161,10 +166,10 @@ To become a library that cultivates people's love of reading and enriches people
 
 ## Certificate
 
--   **Cyber Security Operations in Cisco Networking Academy** - *September 2021*
--   **Front End Developer in the Digital Talent Scholarship** - *April 2022*
--   **Alibaba Cloud Certified Associate in Alibaba Cloud** - *August 2023*
 -   **DevNet Associate in Cisco Networking Academy** - *March 2024* 
+-   **Alibaba Cloud Certified Associate in Alibaba Cloud** - *August 2023*
+-   **Front End Developer in the Digital Talent Scholarship** - *April 2022*
+-   **Cyber Security Operations in Cisco Networking Academy** - *September 2021*
 
 --- 
 
