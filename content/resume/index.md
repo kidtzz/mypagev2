@@ -121,10 +121,6 @@ Become a programming professional & Highly motivated to learn something new. int
 -   Development of BMC Helix Discovery and Service Model
 
 
-
-
-
-
 ## Founder
 Founder Library - **Manggala Pustaka**
 *August 2021 - Present*
@@ -174,6 +170,7 @@ To become a library that cultivates people's love of reading and enriches people
 --- 
 
 I the undersigned, certify that:
+<br>
 To the best of my knowledge, this curriculum vitae correctly describes myself, my qualifications, and my experiences.
 
 
