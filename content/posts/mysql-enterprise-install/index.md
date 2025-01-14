@@ -9,9 +9,57 @@ draft: false
 tags:
 - database
 - mysql
-title : 'Installing MySQL 9 Enterprise Edition in Oracle linux 7.8'
+title : 'Installing MySQL 9/8 Enterprise Edition in Oracle linux 7.8'
 ---
 
+
+### Method 1
+
+1. Unzip file RPM
+
+    ```go
+    unzip mysql-commercial-server-8.0.40-1.1.el7.zip
+    ```
+
+2. Run Installer 
+
+    ```go
+    yum install *.rpm
+    ```
+
+3. Get password from temporary
+   
+    ```go
+    sudo grep 'temporary' /var/log/mysqld.log
+    ```
+
+4. Secure MySQL Installation
+
+    ```go
+    sudo mysql_secure_installation
+
+    Enter current password for root (enter for none): 
+    Set root password? [Y/n] Y
+    New password: 
+    Re-enter new password: 
+    Do you wish ...? : Y
+    Remove anonymous users? [Y/n] Y
+    Disallow root login remotely? [Y/n] n
+    Remove test database and access to it? [Y/n] Y
+    Reload privilege tables now? [Y/n] Y
+    
+    ```
+
+5. Try login 
+
+    ```go
+    mysql -uroot -p
+    ```
+
+<br/>
+<br/>
+
+### Method 2
 After you have downloaded the MySQL Enterprise Edition software bundle from the MySQL Enterprise Edition Downloads page on OTR, follow the installation instructions below for your platform.
 
  
