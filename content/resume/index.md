@@ -162,6 +162,7 @@ To become a library that cultivates people's love of reading and enriches people
 
 ## Certificate
 
+-   **Oracle Certified Associate, MySQL 8** - *Jan 2025*
 -   **DevNet Associate in Cisco Networking Academy** - *March 2024* 
 -   **Alibaba Cloud Certified Associate in Alibaba Cloud** - *July 2023*
 -   **Front End Developer in the Digital Talent Scholarship** - *April 2022*
