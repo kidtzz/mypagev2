@@ -163,7 +163,7 @@ To become a library that cultivates people's love of reading and enriches people
 ## Certificate
 
 -   **DevNet Associate in Cisco Networking Academy** - *March 2024* 
--   **Alibaba Cloud Certified Associate in Alibaba Cloud** - *August 2023*
+-   **Alibaba Cloud Certified Associate in Alibaba Cloud** - *July 2023*
 -   **Front End Developer in the Digital Talent Scholarship** - *April 2022*
 -   **Cyber Security Operations in Cisco Networking Academy** - *September 2021*
 
