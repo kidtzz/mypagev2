@@ -8,9 +8,9 @@ draft: false
 tags:
 - database
 - mysql
-date : '2024-12-09T11:13:58+07:00'
+date : 2024-12-09T11:13:58+07:00
 draft : false
-title : 'Install MYSQL Server Community  '
+title : Install MYSQL Server Community
 ---
 
 

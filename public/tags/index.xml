@@ -11,13 +11,20 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jan 2025 09:56:12 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 13:11:53 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Database</title>
       <link>http://localhost:1313/tags/database/</link>
-      <pubDate>Tue, 07 Jan 2025 09:56:12 +0700</pubDate>
+      <pubDate>Mon, 17 Feb 2025 13:11:53 +0700</pubDate>
       <guid>http://localhost:1313/tags/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mysql</title>
+      <link>http://localhost:1313/tags/mysql/</link>
+      <pubDate>Mon, 17 Feb 2025 13:11:53 +0700</pubDate>
+      <guid>http://localhost:1313/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
@@ -25,13 +32,6 @@
       <link>http://localhost:1313/tags/oracledb/</link>
       <pubDate>Tue, 07 Jan 2025 09:56:12 +0700</pubDate>
       <guid>http://localhost:1313/tags/oracledb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mysql</title>
-      <link>http://localhost:1313/tags/mysql/</link>
-      <pubDate>Thu, 12 Dec 2024 10:57:33 +0700</pubDate>
-      <guid>http://localhost:1313/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
