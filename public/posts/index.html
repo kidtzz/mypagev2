@@ -5,7 +5,7 @@ curl -1sSLf 'https://downloads.enterprisedb.com/gmwxCGUaP97Ygbc4eQB7x8mo7kSVzT9I
 sudo dnf -y install edb-efm47 Prereq before cluster on edb master Create User Replicator for Replication Role only
 su - enterprisedb psql edb create user replicator with replication encrypted password 'P@ssw0rd'; Change postgresql.conf parameter
 vi "/pgdata/postgresql.conf" cat "/pgdata/postgresql.conf" | grep -i listen_addresses listen_addresses = '*' # what IP address(es) to listen on; Change pg_hba.conf parameter
-cat "/pgdata/pg_hba.conf" | grep -i replicator host replication replicator 10.64.24.52/32 trust host replication replicator 10.64.24.53/32 trust Restart edb-as-15 service
+cat "/pgdata/pg_hba.conf" | grep -i replicator host replication replicator 192.168.200.113/32 trust host replication replicator 192.168.200.114/32 trust Restart edb-as-15 service
 systemctl stop edb-as-15 systemctl start edb-as-15 systemctl status edb-as-15 Check replication master status (After Slaves Configured)
 ...</p></div><footer class=entry-footer><span title='2025-02-17 13:12:16 +0700 +07'>February 17, 2025</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;448 words&nbsp;·&nbsp;kidtz</footer><a class=entry-link aria-label="post link to Edb Cluster Setup with EFM failover manager" href=http://localhost:1313/posts/edb-postgres-cluster-setup/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>Edb Postgres Installation</h2></header><div class=entry-content><p>Get repor from EDB
 here

@@ -59,8 +59,8 @@ title : Edb Cluster Setup with EFM failover manager
 
     ```go
     cat "/pgdata/pg_hba.conf" | grep -i replicator 
-    host replication replicator 10.64.24.52/32 trust 
-    host replication replicator 10.64.24.53/32 trust
+    host replication replicator 192.168.200.113/32 trust 
+    host replication replicator 192.168.200.114/32 trust
 
     ```
 
