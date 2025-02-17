@@ -63,7 +63,7 @@ title : Edb Postgres Installation
     vi /lib/systemd/system/edb-as-15.service
     ```
     
-    type her:
+    type this:
     ```go   
     vi edb-as-15.service; cat edb-as-15.service 
 
