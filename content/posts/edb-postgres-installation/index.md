@@ -20,12 +20,13 @@ title : Edb Postgres Installation
     [here](https://www.enterprisedb.com/repos)
 
 2. Select platform and verison edb
+
     platform:
     ![img](./image0.png)
 
     version edb:
     ![img](./image1.png)
-3. Then will show how step how to installation
+3. Then will show step how to installation
     ![img](./image3.png)
 
 4. Run script in the terminal
