@@ -4,10 +4,10 @@ ShareButtons:
 - whatsapp
 - twitter
 ShowReadingTime: true
-draft: false
 tags:
 - database
-- mysql
+- edb
+- postgres
 
 date : 2025-02-17T13:11:53+07:00
 draft : false
