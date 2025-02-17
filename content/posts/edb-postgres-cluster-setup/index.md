@@ -11,7 +11,7 @@ tags:
 
 date : 2025-02-17T13:12:16+07:00
 draft : false
-title : Edb Postgres Cluster Setup
+title : Edb Cluster Setup with EFM failover manager
 ---
 
 ### Prerequsite:
