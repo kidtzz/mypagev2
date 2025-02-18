@@ -257,6 +257,6 @@ title : Edb Cluster Setup with EFM failover manager
 //refresh cluster
 select pg_reload_conf();
 
-//ajm
+//ajmmm
 
 ```
